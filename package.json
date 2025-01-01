@@ -2,9 +2,9 @@
   "name": "mern-netflix-clone",
   "version": "1.0.0",
   "description": "",
-  "main": "backend/server.js",
+  "main": "Backend/server.js",
   "scripts": {
-    "dev": "nodemon backend/server.js"
+    "dev": "nodemon Backend/server.js"
   },
   "keywords": [],
   "author": "",
